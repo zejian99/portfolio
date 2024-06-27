@@ -1,7 +1,7 @@
 export default [
     {
         title: 'Portfolio',
-        imgUrl: '',
+        imgUrl: '/assets/portfolio.webp',
         stack: ['React', 'JavaScript', 'Vite'],
         link: '',
     },
