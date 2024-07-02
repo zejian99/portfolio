@@ -3,7 +3,13 @@ export default [
         title: 'Portfolio',
         imgUrl: '/assets/portfolio.webp',
         stack: ['React', 'JavaScript', 'Vite'],
-        link: '',
+        link: 'https://github.com/zejian99/portfolio',
+    },
+    {
+        title: 'Telegram Bot',
+        imgUrl: '/assets/telegram_bot.webp',
+        stack: ['Python', 'Docker', 'Google Cloud'],
+        link: 'https://github.com/zejian99/telegram_bot',
     },
     {
         title: 'Script Automator',
