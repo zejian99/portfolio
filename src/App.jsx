@@ -3,6 +3,7 @@ import Footer from './components/Footer';
 import Intro from './components/Intro';
 import Portfolio from './components/Portfolio';
 import Timeline from './components/Timeline';
+import Education from './components/Education';
 
 function App() {
     const [theme, setTheme] = useState(null);
@@ -75,6 +76,7 @@ function App() {
             <Intro />
             <Portfolio />
             <Timeline />
+            <Education />
             <Footer />
             </div>
         </div>

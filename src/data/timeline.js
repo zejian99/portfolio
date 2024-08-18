@@ -9,13 +9,6 @@ export default [
     },
     {
         year: '2024',
-        title: 'NUS Graduate',
-        company: 'National University of Singapore (NUS)',
-        duration: 'Aug 2020 - June 2024',
-        details: 'I recently graduated from NUS with a major in Data Science & Analytics. I’m passionate about data and dream of building the next Jarvis (hopefully before OpenAI does)!'
-    },
-    {
-        year: '2024',
         title: 'NUS Teaching Assistant',
         company: 'National University of Singapore (NUS)',
         position: 'Contract',
