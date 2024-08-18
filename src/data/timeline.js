@@ -4,7 +4,7 @@ export default [
         title: 'Management Associate',
         company: 'Carro',
         position: 'Full-Time',
-        duration: 'Aug 2024 - ',
+        duration: 'Aug 2024 - Present',
         details: 'Gaining hands-on experience in my first rotation with the Transformation Office. My focus is on streamlining processes to enhance the company’s efficiency and effectiveness.'
     },
     {
